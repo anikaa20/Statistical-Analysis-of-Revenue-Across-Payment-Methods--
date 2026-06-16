@@ -1,5 +1,11 @@
 # **MAXIMIZING REVENUE FOR TAXI CAB DRIVERS THROUGH PAYMENT TYPE ANALYSIS**
+## Project Story (Animated Deck)
 
+<p align="center">
+
+<img src="https://github.com/anikaa20/Statistical-Analysis-of-Revenue-Across-Payment-Methods--/blob/main/NY_TAXI_DECK_900px_3s.gif" width="900"/>
+
+</p>
 
 ### **PURPOSE**
 
