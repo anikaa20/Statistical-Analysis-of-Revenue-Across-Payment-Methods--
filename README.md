@@ -89,4 +89,4 @@ Card payments generate **$1.89 more per trip** than cash ($20.24 vs. $18.35), a 
 * **IQR outlier removal** reduced the dataset significantly but was necessary to prevent extreme fares and distances from distorting payment-type comparisons.
 * **January 2015 only** : Findings reflect a single month; seasonal variation is not captured. Replication across multiple months is recommended before fleet-wide rollout.
 * **Tip amounts excluded** : Analysis uses `fare_amount`, not `total_amount`. Since card customers likely tip more (cash tips go unrecorded), the true revenue gap per trip is probably **larger** than $1.89.
-* **P-value of 0.0** reflects Python's floating-point precision limit, interpreted as "vanishingly small," not literally zero.
+* **P-value of ~0.0** reflects Python's floating-point precision limit, interpreted as "vanishingly small," not literally zero.
