@@ -20,7 +20,7 @@ Insights and recommendations are provided across four areas:
 - **Trip Distance Patterns** : why the gap is structural, not incidental
 - **Passenger Count Behavior** : identifying the highest-volume nudge opportunity
 
-Full Python EDA code → [`EDA.ipynb`](./EDA.ipynb)
+Full Python EDA code → [`Notebook.ipynb`](https://github.com/anikaa20/Statistical-Analysis-of-Revenue-Across-Payment-Methods--/blob/main/Notebook.ipynb)
 
 ---
 
