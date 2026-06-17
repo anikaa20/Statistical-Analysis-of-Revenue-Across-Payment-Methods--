@@ -6,7 +6,11 @@
 <img src="https://github.com/anikaa20/Statistical-Analysis-of-Revenue-Across-Payment-Methods--/blob/main/NY_TAXI_DECK_900px_3s.gif" width="900"/>
 
 </p>
-
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/1Bpw3ZNhzPbRM4KQABSnSnpISHPkOALkH/edit?usp=sharing&ouid=108825657904597871730&rtpof=true&sd=true">
+    📊 <b>View the Complete Project Deck</b>
+  </a>
+</p>
 
 ## Project Background
 
