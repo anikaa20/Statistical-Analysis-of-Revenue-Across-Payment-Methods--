@@ -30,7 +30,7 @@ Full Python EDA code → [`Notebook.ipynb`](https://github.com/anikaa20/Statisti
 
 ## Data Structure & Initial Checks
 
-**Source:** Single flat table — NYC Yellow Taxi Trip Records, January 2015 (Kaggle)
+**Source:** Single flat table - NYC Yellow Taxi Trip Records(Kaggle)
 
 **Raw dataset :** 908,819 rows × 19 columns → **Cleaned dataset :** 104,816 rows × 4 columns
 
