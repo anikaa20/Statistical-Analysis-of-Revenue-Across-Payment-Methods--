@@ -84,7 +84,6 @@ Card payments generate **$1.89 more per trip** than cash ($20.24 vs. $18.35), a 
 
 * **Introduce card-exclusive micro-benefits.** Loyalty points or ride credits create a pull factor for cash customers to switch without penalizing cash explicitly.
 
-* **Build a driver incentive tied to card-payment ratio.** Align driver behavior with fleet revenue goals through a monthly performance bonus, turning drivers into active advocates at the point of service.
 
 ---
 
